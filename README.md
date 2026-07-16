@@ -7,7 +7,6 @@ An Exploratory Data Analysis (EDA) project that analyzes heart attack risk facto
 ## 📖 Table of Contents
 
 - [Project Overview](#project-overview)
-- [Dataset](#dataset)
 - [Objectives](#objectives)
 - [Tools & Libraries](#tools-&-libraries)
 - [Data Preparation](#data-preparation)
@@ -22,27 +21,7 @@ An Exploratory Data Analysis (EDA) project that analyzes heart attack risk facto
 
 This project performs Exploratory Data Analysis (EDA) on a heart attack dataset to understand the factors that influence heart attack risk. The analysis includes data cleaning, descriptive statistics, correlation analysis, and visualizations to uncover meaningful patterns in patient health indicators.
 
----
 
-### Dataset
-
-**Dataset:** Heart Attack Dataset
-
-The dataset contains medical information such as:
-
-- Age
-- Gender
-- Chest Pain Type
-- Resting Blood Pressure
-- Cholesterol Level
-- Fasting Blood Sugar
-- Resting ECG
-- Maximum Heart Rate
-- Exercise-Induced Angina
-- ST Depression (Oldpeak)
-- Number of Major Vessels
-- Thalassemia
-- Heart Attack Risk (Target)
 
 ---
 
