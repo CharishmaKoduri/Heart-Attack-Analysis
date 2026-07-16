@@ -6,15 +6,15 @@ An Exploratory Data Analysis (EDA) project that analyzes heart attack risk facto
 
 ## 📖 Table of Contents
 
-- Project Overview(#project-overview)
-- Dataset(#dataset)
-- Objectives(#objectives)
-- Tools & Libraries(#tools-&-libraries)
-- Data Preparation(#data-preparation)
-- Exploratory Data Analysis(#exploratory-data-analysis)
-- Visualizations(#visualizations)
-- Key Insights(#key-insights)
-- Project Outcome(#project-outcome)
+- [Project Overview](#project-overview)
+- [Dataset](#dataset)
+- [Objectives](#objectives)
+- [Tools & Libraries](#tools-&-libraries)
+- [Data Preparation](#data-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Visualizations](#visualizations)
+- [Key Insights](#key-insights)
+- [Project Outcome](#project-outcome)
 
 ---
 
